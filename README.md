@@ -2,7 +2,7 @@
 
 NUM 2.0 model by Grigoratou et al 2024. 
 The model follows NUM 1.0's (Pompei et al., 2020) design, parameterazation and set up. The main differences compare to Pompei et al., 2020 can be summarized as follow:
-NUM 2.0 does not include copepods' fecal pellet production
+NUM 2.0 does not include copepods' faecal pellet production
 NUM 2.0 is more flexible compare to the NUM 1.0 on adding different plankton groups via a dataframe (e.g., the species dataframes in the folder).
 NUM 2.0 represents the temperature effect on species uptake, clearence, ingestion rates via temperature optima following the Dutzkiewicz et al., (2015; 2020) Darwin- MIT approach.
 
